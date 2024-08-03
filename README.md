@@ -14,6 +14,7 @@ The methodology employed in developing the multifunctional robot dog encompasses
 3. Testing and Optimization: Rigorous testing is conducted to evaluate the performance of individual features and their collective integration. Iterative optimization is carried out to enhance accuracy in face recognition, responsiveness in gesture and voice controls, and efficiency in object-carrying mechanisms. User feedback during this phase informs refinements to ensure a user-friendly and reliable experience.
 4. Transportation Mode Implementation: The unique aspect of the robot dog as a transportation mode involves additional considerations. Structural integrity, weight distribution, and user safety are paramount. This phase entails engineering solutions for stability and comfort, as well as integrating control mechanisms for the ride-on feature.
 5. User Interaction Studies: User studies are conducted to assess the effectiveness and user-friendliness of the robot dog's features. Feedback is collected on interaction modes, comfort during transportation, and overall user satisfaction. This information guides further refinements and potential future iterations.
+<img scr="./img/graph.jpg" alt="block diagram"/>
 
 Fig. 1.Start with facial recognition, move to voice control, switch transportation modes, and finish with gesture control. Behind the scenes, cameras, motors, and sensors play their part, all connected to Arduino for a smooth performance through I2C communication. It's a simple yet fascinating flowchart of user-friendly tech interactions
 
